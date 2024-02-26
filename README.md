@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Mobin</h1>
+<h1 align="left">Hi 👋, This is Mobin</h1>
 
 <p align="left">With 3 years of experience worked on 200+ troubleshooting, deployed new infrastructure from scratch, and worked on existing infrastructure and migrated them to cloud. Working on different projects helped me adapt to changes quickly and made me a mature team member. Now seeking a challenging role to apply my knowledge of cloud computing, CI/CD pipelines, containerization technologies, monitoring, and troubleshooting to streamline deployment processes and ensure high availability of applications.</p>
 
